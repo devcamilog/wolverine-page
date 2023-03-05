@@ -1,2 +1,2 @@
 # wolverine-page
-Este proyecto es un sitio web que presenta contenido sobre Wolverine y los X-Men. Incluye videos, imágenes y descripciones detalladas sobre personajes y cómics. El diseño es responsivo y se adapta a dispositivos móviles.
+Este proyecto es un sitio web que presenta contenido sobre Wolverine . Incluye video y descripciones detalladas sobre la nueva pelicula de deadpool y cómics. El diseño es responsivo y se adapta a dispositivos móviles.
